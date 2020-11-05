@@ -1,0 +1,17 @@
+Write a web app called Learning Log that allows users to:
+--log the topics they're interested in
+--make journal entries as they learn about each topic
+
+Learning Log Home page-will describe the site and invite users to either register or log in.
+Once users are logged in-users can:
+--create new topics
+--add new entries
+--read and edit existing entries
+
+Steps:
+1-set up Py vertual env
+2-install django
+3-create database
+4-define models
+5-set up users
+6-
