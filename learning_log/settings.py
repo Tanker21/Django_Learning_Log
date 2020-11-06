@@ -126,3 +126,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# My settings
+LOGIN_URL = 'users:login'
+
+# Heroku settings
+import django_heruko
+django_heroku.settings(locals())
+
