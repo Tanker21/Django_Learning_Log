@@ -9,7 +9,38 @@ This project teaches the fundamental components of the django framework, how to 
 ## Screenshots of the webapp's various components:
 
 ### Home Page (with user logged in, as indicated in the headerbar):
-![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/404_error.PNG "Home Page")
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/HomePage.PNG "Home Page")
+
+### Topics page, showing all topics for current user:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topics.PNG "Topics Page")
+
+### Topic page, showing related entries for selected topic:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic.PNG "Topic Page")
+
+### New Topic page:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/NewTopic.PNG "New_Topic Page")
+
+### New Entry page:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/NewEntry.PNG "New_Entry Page")
+
+### Topic page with added entry:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic_with_entry.PNG "Topic_With_Entry Page")
+
+## Custome error pages:
+
+### 404-page not found:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/404_error.PNG "404_error Page")
+
+### 500-internal error:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/500_Error.PNG "500_error Page")
+
+## User pages:
+
+### Login page:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/LogIn.PNG "Login Page")
+
+### Register a new user page:
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Register.PNG "Register Page")
 
 ## Django components
 Django is a web framework for Python that simplifies setting up and managing websites.  This project contains users, and their authentication/authorization configurations, a database to store user and entry items, topics users could create, and entries related to those topics as objects.  
