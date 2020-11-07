@@ -18,7 +18,7 @@ This project teaches the fundamental components of the django framework, how to 
 ![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic.PNG "Topic Page")
 
 ## New Topic page:
-![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic.PNG "New_Topic Page")
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/NewTopic.PNG "New_Topic Page")
 
 ## New Entry page:
 ![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/NewEntry.PNG "New_Entry Page")
