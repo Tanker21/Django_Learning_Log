@@ -6,6 +6,11 @@ This is a project from the book, Python Crash Course, by Eric Matthes. It is a D
 ## Purpose
 This project teaches the fundamental components of the django framework, how to manage users and user permissions, a bit on security, and offers a way to get a website to be public facing.  There is also coverage on how to use git for version control.
 
+## Screenshots of the webapp's various components:
+
+### Home Page (with user logged in, as indicated in the headerbar):
+![Alt text](/Learning_Log_Screenshots/HomePage.png?raw=true "Home Page")
+
 ## Django components
 Django is a web framework for Python that simplifies setting up and managing websites.  This project contains users, and their authentication/authorization configurations, a database to store user and entry items, topics users could create, and entries related to those topics as objects.  
 
