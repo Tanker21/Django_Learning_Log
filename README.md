@@ -9,7 +9,7 @@ This project teaches the fundamental components of the django framework, how to 
 ## Screenshots of the webapp's various components:
 
 ### Home Page (with user logged in, as indicated in the headerbar):
-![Alt text](/Learning_Log_Screenshots/HomePage.png?raw=true "Home Page")
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/404_error.PNG "Home Page")
 
 ## Django components
 Django is a web framework for Python that simplifies setting up and managing websites.  This project contains users, and their authentication/authorization configurations, a database to store user and entry items, topics users could create, and entries related to those topics as objects.  
