@@ -18,14 +18,13 @@ This project teaches the fundamental components of the django framework, how to 
 ![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic.PNG "Topic Page")
 
 ## New Topic page:
-![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic.PNG "New_Topic Page")
+![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/NewTopic.PNG "New_Topic Page")
 
 ## New Entry page:
 ![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/NewEntry.PNG "New_Entry Page")
 
 ## Topic page with added entry:
 ![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/Topic_with_entry.PNG "Topic_With_Entry Page")
-
 ## Custom error pages:
 
 ## 404-page not found:
@@ -33,7 +32,6 @@ This project teaches the fundamental components of the django framework, how to 
 
 ## 500-internal error:
 ![Alt text](https://github.com/Tanker21/Django_Learning_Log/blob/master/Learning_Log_Screenshots/500_Error.PNG "500_error Page")
-
 ## User pages:
 
 ## Login page:
